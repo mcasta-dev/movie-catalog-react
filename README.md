@@ -25,8 +25,6 @@ I am not the original creator of this application concept or design. This projec
 * JavaScript (ES6+)
 * CSS3
 * TMDB API
-* React Context API
-* Local Storage
 
 ## Installation
 
